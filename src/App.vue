@@ -9,7 +9,7 @@ export default {
 
     }
   },
-  // dichiarazione del componente all'interno dell'ogettoù
+  // dichiarazione del componente all'interno dell'oggetto
   components:{
     AppTitle
   }
